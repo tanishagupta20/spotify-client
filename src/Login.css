@@ -1,0 +1,114 @@
+.logo-name{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height : 80px;
+}
+
+.login-logo{
+    height : 50px;
+    width : 70px
+}
+
+.spotify-text{
+    margin-left: -10px;
+}
+
+.login-form{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.btn-props{
+    background-color: white;
+    height : 50px;
+    width : 500px;
+    border-radius: 25px;
+    font-size: 1rem;
+    letter-spacing: 2px;
+    color : rgb(86, 84, 84);
+    border : 1.5px solid rgb(142, 140, 140);
+    font-weight : 600;
+    cursor: pointer;
+}
+
+.cont-email{
+    margin-top : 50px;
+}
+
+.border-hover:hover{
+    border : 1.5px solid black;
+}
+
+.or-span{
+    margin-top: 20px;
+    font-weight: 700;
+}
+
+.left-label-div{
+    display: flex;
+    flex-direction: column;
+}
+
+.input-label{
+    margin-top: 20px;
+    font-weight: 700;
+}
+
+.ip-box{
+    height : 50px;
+    width : 500px;
+    border-radius: 5px;
+    padding: 9px;
+    margin-top: 10px;
+    font-size: 1rem;
+    border : 1.5px solid rgb(142, 140, 140);
+}
+
+.ip-box:focus{
+    border : 3.5px solid black;
+}
+
+.forgot-pwd{
+    margin-top: 20px;
+    color : black;
+}
+
+.rem-box{
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.ip-rem-check:checked{
+    accent-color: #149c44;
+}
+
+.remember-me{
+    margin-left: 10px;
+}
+
+.login-btn{
+    height : 50px;
+    width : 120px;
+    border-radius: 50px;
+    font-weight: 700;
+    letter-spacing: 2px;
+    background-color: #1cd363;
+    border : none
+}
+
+.hz-line{
+    margin-top: 20px;
+}
+
+.signup-heading{
+    text-align: center;
+    margin-top: 30px;
+}
+
+.signup-btn{
+    margin-top : 20px;
+}
